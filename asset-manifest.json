@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CodeWithUmya/static/css/main.53de72b8.css",
+    "main.js": "/CodeWithUmya/static/js/main.2dc427e6.js",
+    "static/media/me-about.jpg": "/CodeWithUmya/static/media/me-about.cceae405a51bd2ba9792.jpg",
+    "static/media/cv.pdf": "/CodeWithUmya/static/media/cv.b87b7cbd8e6c0389b7ce.pdf",
+    "static/media/me.png": "/CodeWithUmya/static/media/me.e71f4c5b0c4306d65355.png",
+    "static/media/github.png": "/CodeWithUmya/static/media/github.8ed91d416ca1b9747bfc.png",
+    "index.html": "/CodeWithUmya/index.html",
+    "main.53de72b8.css.map": "/CodeWithUmya/static/css/main.53de72b8.css.map",
+    "main.2dc427e6.js.map": "/CodeWithUmya/static/js/main.2dc427e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53de72b8.css",
+    "static/js/main.2dc427e6.js"
+  ]
+}
